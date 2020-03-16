@@ -1,0 +1,32 @@
+﻿ensure:인정하다:보증하다:2
+announce:알리다:보고하다:1
+take...into_account:…을 고려하다:계정으로 들어가다:1
+precise:예측하다:정확한:2
+consult:협상하다:상담하다:2
+council:의회:연필:1
+whereas:…에서:반면:2
+worship:평화:예배:2
+hermit:은자:보호자:1
+wisdom:지혜:속삭이다:1
+folk:포크:사람들:2
+disguise:변신하다:변장하다:2
+peasant:농부:갑부:1
+greet:인사하다:끈기있는:1
+decline:올라가다:거절하다:2
+respond:대답:대답하다:2
+spade:낫:삽:1
+eventually:마침내:또한:1
+wound:나무:부상:2
+bandage:진단하다:붕대를 감다:2
+exhausted :기진맥진한:아픈:1
+stare:응시하다:선언하다:1
+forgive:주다:용서하다:2
+beg:침대:간청하다:2
+property:재산:선물:1
+come_across:만나다:우연히 마주치다:2
+recognize :알아보다:무시하다:1
+serve:섬기다:바치다:1
+enemy:중립의:적:2
+restore:재사용하다:되돌려주다:2
+attack:공격하다:무찌르다:1
+care_for:…를 돌보다:…를 주의하다:1

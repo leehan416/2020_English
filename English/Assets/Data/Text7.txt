@@ -1,0 +1,46 @@
+﻿document:문서:문자:1
+container:운송:함:2
+remove:이동시키다:
+discovery:자연:발견:2
+advanced:진보한:
+break_down:떨어지다:분해되다:2
+damaged:손상된:
+bark:공원:나무껍질:2
+mulberry:뽕나무:
+complex:구조:복잡한:2
+durable:내구성:내구성 있는:2
+tear:흘리다:찢다:2
+fall_apart:오래되어 허물어지다:떨어지다:1
+endure:내구성:지속되다:2
+absorb:흡수하다:번지다:1
+bleed:피:번지다:2
+characteristic:특징:취미:1
+glue::…을 붙이다:흡입하다:1
+layer:층:껍질:1
+armor:방패:갑옷:2
+invaluable:유용한:매우 귀중한:2
+modernization:현대주의:현대화:2
+outstanding:뛰어난:외향적인:1
+relevant:뛰어난:유의미한:2
+function:기능:변신:1
+fabric:시설:천:2
+yarn:실:생산하다:1
+practical:연습:실용적인:2
+make_waves:파도타기 하다:파장을 일으키다:2
+domestic::국내의:딱딱한:1
+treat:만족을 주는 것:속임수:1
+customer:소비:고객:2
+vibration:진동:퍼지다:1
+panel:땅:판:2
+purchase:구매품:구매하다:1
+appreciate:귀한:진가를 알아보다:2
+innovative:혁신적인:뛰어난:1
+spacecraft:배:우주선:2
+joint:공동의:연결하다:1
+harmful:아픈:유해한:2
+ray:광선:비:1
+probe:우주 탐사선:입증하다:1
+currently:보장하다:현재:2
+adapt:적응하다:입양하다:1
+generation:일반적인:세대:2
+revival:부활:살아남다:1

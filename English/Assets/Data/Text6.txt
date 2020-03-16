@@ -1,0 +1,44 @@
+﻿landmark:명소:유일한:1
+in_particular:또한:특히:2
+in_charge_of:충전하다:책임이 있는:2
+commuter:통근자:구매자:1
+transport:수송수단:환승하다:1
+unstable:의심되는:불안정한:2
+frequently:빈도수:자주:2
+tide:조류:넥타이:1
+constantly:끊임없이:의미있는:1
+suspension_bridge:아치교:현수교:2
+expert:전문가:유명한:1
+propose:당부하다:제안하다:2
+hold_up:개최하다:지탱하다:2
+ambition:야망:야심찬:1
+involved:관련된:인식하다:1
+infection:탑승하다:감염:2
+destined:운명인:운영하다:1
+shortly:곧:짧은:1
+launch:점심:시작하다:2
+succeed:연계:뒤를 잇다:2
+foundation:상식:기반:2
+waterproof:방수가 되는:물받이:1
+permanently:영구적으로:무의식적으로:1
+injure:부상을 입히다:주사하다:1
+including:흐린:…을 포함하여:2
+site:인용하다:현장:2
+quit:그만두다:아주:1
+supervise:감독하다:대표하다:1
+telescope:망원경:현미경:1
+despite:폭력적인:…에도 불구하고:2
+amazement:즐거움:놀라움:2
+step_in:들어가다:돕고 나서다:2
+see...through:…을 끝까지 해내다:통하여:1
+instruction:지시:건설:1
+assistant:보조의:성의:1
+process:과정:진행하다:1
+carry_out:수행하다:태우다:1
+unprecedented:예측할 수 없는:전례없는:2
+contribution:기부:기여:2
+evidence:증거:확실한:1
+persistence:끈기:분명한:1
+sacrifice:사용하다:희생:2
+obstacle:방해:장애:2
+accomplishment:성공:업적:2

@@ -1,0 +1,34 @@
+﻿host:진행자:판매자:1
+harsh:빠른:가혹한:2
+immediately:즉시:곧:1
+go_through:거치다:통하여:1
+make_up:…을 형성하다:…을 높이다:1
+evaluate:축하하다:평가하다:2
+signal:보내다:신호:2
+slight:약간의:매우:1
+mature:성숙하다:미래:1
+risky:위험한:멍청한:1
+region:위험한:지역:2
+measure:측정하다:무시하다:1
+rely_on:…에 헌신하다:…에 의존하다:2
+influence:적용하다:영향을 미치다:2
+instinct:본능:폭력적인:1
+inclined:…하는 경향이 있는:상승한:1
+consequence:과거:결과:2
+based_on:…에 기반하여:기초:1
+identify:차별화하다:찾다:2
+connection:연결:연결된:1
+experiment:실험:예시:1
+get_rid_of:무력한:…을 없애다:2
+instrument:악기:악보:1
+strengthen:~보다 강력한:강화하다:2
+adolescent:청소년:어린이:1
+period:자존심:시기:2
+merely:심각한:단지:2
+dismiss:묵살하다:피하다:1
+phase:단계:문장:1
+in_terms_of:…면에서:…기간에:1
+significant:신호를 수신하다:중요한:2
+stage:난이도:단계:2     
+insight:시력:통찰력:2
+location:위치:예약:1
